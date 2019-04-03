@@ -19,5 +19,6 @@ resD <- c(seq(from=6, to=12), rep(5.3, times=3), -3, seq(from=102, to=length(seq
 print("Result:")
 print(resD)
 
+# E
 print("Length of resD:")
 print(length(resD))
